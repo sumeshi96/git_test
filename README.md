@@ -16,13 +16,13 @@
 
 0.リポジトリをクローンする
 
-__`git clone https://github.com/sumeshi96/repositoryname.git`__
-このリポジトリをクローンするには
+__`git clone https://github.com/sumeshi96/repositoryname.git`__  
+このリポジトリをクローンするには 
 `git clone https://github.com/sumeshi96/git_test.git`
 
-1-1.現在のブランチを確認
-__`git branch`__
-`*main`と表示されていればOK
+1-1.現在のブランチを確認  
+__`git branch`__  
+`*main`と表示されていればOK  
 
 1-2.ブランチを作る
 
