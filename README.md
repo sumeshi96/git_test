@@ -17,7 +17,7 @@
 0.リポジトリをクローンする
 
 __`git clone https://github.com/sumeshi96/repositoryname.git`__  
-このリポジトリをクローンするには 
+このリポジトリをクローンするには  
 `git clone https://github.com/sumeshi96/git_test.git`
 
 1-1.現在のブランチを確認  
