@@ -4,7 +4,16 @@
 
 - Githubのアカウント (<https://github.com>)  
 - Git Bash (<https://gitforwindows.org>)  
-- Visual Studio Code (<https://azure.microsoft.com/ja-jp/products/visual-studio-code/>)  
+- Visual Studio Code (<https://azure.microsoft.com/ja-jp/products/visual-studio-code/>) 
+
+### Gitの初期設定
+
+GitHubの名前とメールアドレスを入力
+- `git config --global user.name name`
+- `git config --global user.email git@gmail.com`
+
+デフォルトブランチをmainに変更
+- `git config --global init.defaultBranch main`
 
 ## Linux(Git Bash)の便利なコマンド
 
