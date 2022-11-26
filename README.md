@@ -54,10 +54,18 @@ ex)`git branch sumeshi`
 - __`touch filename`__  
 ex) `touch sumeshi.md`  
 
-3.gitにファイルをステージング  
+3-1.gitにファイルをステージング  
 
 - __`git add filename`__  
 ex) `git add sumeshi.md`  
+
+3-2.ステージングされているファイルを確認
+
+- `git status -s`
+  
+  - `M_`:`git add`されているが、`git commit`されていないファイル
+  - `_M`:編集、変更、削除されているが`git add`されていないファイル
+  - `??`:gitで管理されていないファイル
 
 4-1.gitにコミット  
 
