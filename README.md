@@ -15,6 +15,9 @@ GitHubの名前とメールアドレスを入力
 デフォルトブランチをmainに変更
 - `git config --global init.defaultBranch main`
 
+githubへの認証を回避する
+- `git config --global credential.helper store`
+
 ## Linux(Git Bash)の便利なコマンド
 
 - `ls` : カレントディレクトリのファイル一覧を取得  
