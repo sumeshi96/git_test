@@ -59,10 +59,15 @@ ex) `touch sumeshi.md`
 - __`git add filename`__  
 ex) `git add sumeshi.md`  
 
-4.gitにコミット  
+4-1.gitにコミット  
 
 - __`git commit -m "commit message"`__  
 ex) `git commit -m "add: sumeshi.mdを追加"`  
+
+4-2.コミット履歴を見る
+
+- `git log`  
+  終了するには`q`を入力
 
 5.githubにプッシュ  
 
