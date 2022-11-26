@@ -82,6 +82,10 @@ ex) `git commit -m "add: sumeshi.mdを追加"`
 - __`git push origin name`__  
 ex) `git push origin sumeshi`  
 
+6.pullする
+- `git pull`
+  リモートリポジトリの変更内容をローカルリポジトリに反映させる。
+
 ### Githubでの作業
 6.pullリクエストをしてみる  
 
