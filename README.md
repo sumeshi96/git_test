@@ -79,6 +79,9 @@ ex) `git commit -m "add: sumeshi.mdを追加"`
 
 - `git log`  
   終了するには`q`を入力
+  
+4-3.直前のコミットを打ち消す
+- __`git reset --soft HEAD^`__
 
 5.githubにプッシュ  
 
